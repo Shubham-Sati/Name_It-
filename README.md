@@ -3,7 +3,7 @@
 
 # View Demo using this link https://shubham-sati.github.io/Name_It-/
 
-Used the concept of getting domain name related to the word given and after clicking your favourite domain click it and it will redirect you to namecheap site to buy your selected domain.
+Used the concept of getting domain names related to the word given and after clicking your favourite word it will redirect you to namecheap site to buy your selected word as your domain.
 
 
 # Getting Started with Create React App
