@@ -1,7 +1,9 @@
 
-# React App
+# React App Name It!
 
-# Name of the app  Name It!
+# View Demo using this link https://shubham-sati.github.io/Name_It-/
+
+Used the concept of getting domain name related to the word given and after clicking your favourite domain click it and it will redirect you to namecheap site to buy your selected domain.
 
 
 # Getting Started with Create React App
